@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and credentials
+.env
+*.pem
+*.key
+
+# Data files
+data/raw/
+data/processed/
+data/exports/
+
+# Logs
+logs/*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
