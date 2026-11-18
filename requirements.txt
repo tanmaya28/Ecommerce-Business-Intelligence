@@ -1,0 +1,28 @@
+
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# SQL Server Connectivity
+sqlalchemy
+pyodbc
+
+# Environment Variables
+python-dotenv
+
+# Machine Learning and Statistics
+scikit-learn
+scipy
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Excel File Support
+openpyxl
+xlsxwriter
