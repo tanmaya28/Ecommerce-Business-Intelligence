@@ -1,0 +1,10 @@
+dataset,original_rows,duplicates_removed,cleaned_rows,invalid_dates,missing_values_remaining
+olist_customers_dataset.csv,99441,0,99441,0,0
+olist_geolocation_dataset.csv,1000163,261831,738332,0,0
+olist_orders_dataset.csv,99441,0,99441,0,4908
+olist_order_items_dataset.csv,112650,0,112650,0,0
+olist_order_payments_dataset.csv,103886,0,103886,0,0
+olist_order_reviews_dataset.csv,99224,0,99224,0,145903
+olist_products_dataset.csv,32951,0,32951,0,2448
+olist_sellers_dataset.csv,3095,0,3095,0,0
+product_category_name_translation.csv,71,0,71,0,0
