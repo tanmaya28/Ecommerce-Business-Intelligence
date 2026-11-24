@@ -34,3 +34,11 @@ GO
 SELECT TOP 20 *
 FROM dbo.vw_OrderRevenue
 ORDER BY ProductRevenue DESC;
+
+CREATE NONCLUSTERED INDEX IX_orders_customer_id
+ON dbo.orders(customer_id);
+GO
+
+CREATE NONCLUSTERED INDEX IX_orders_purchase_timestamp
+ON dbo.orders(order_purchase_timestamp);
+GO
